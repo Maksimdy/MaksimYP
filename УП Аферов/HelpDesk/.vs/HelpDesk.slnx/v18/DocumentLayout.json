@@ -1,0 +1,308 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0415\u043A\u0430\u0442\u0435\u0440\u0438\u043D\u0430\\OneDrive\\Desktop\\\u0423\u041F \u0410\u0444\u0435\u0440\u043E\u0432\\HelpDesk\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A29435A-AFBB-A2BD-9BBE-E9AC8FE2D16B}|HelpDesk\\HelpDesk.csproj|c:\\users\\\u0435\u043A\u0430\u0442\u0435\u0440\u0438\u043D\u0430\\onedrive\\desktop\\\u0443\u043F \u0430\u0444\u0435\u0440\u043E\u0432\\helpdesk\\helpdesk\\views\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A29435A-AFBB-A2BD-9BBE-E9AC8FE2D16B}|HelpDesk\\HelpDesk.csproj|solutionrelative:helpdesk\\views\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A29435A-AFBB-A2BD-9BBE-E9AC8FE2D16B}|HelpDesk\\HelpDesk.csproj|c:\\users\\\u0435\u043A\u0430\u0442\u0435\u0440\u0438\u043D\u0430\\onedrive\\desktop\\\u0443\u043F \u0430\u0444\u0435\u0440\u043E\u0432\\helpdesk\\helpdesk\\views\\ticketcreatewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A29435A-AFBB-A2BD-9BBE-E9AC8FE2D16B}|HelpDesk\\HelpDesk.csproj|solutionrelative:helpdesk\\views\\ticketcreatewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A29435A-AFBB-A2BD-9BBE-E9AC8FE2D16B}|HelpDesk\\HelpDesk.csproj|c:\\users\\\u0435\u043A\u0430\u0442\u0435\u0440\u0438\u043D\u0430\\onedrive\\desktop\\\u0443\u043F \u0430\u0444\u0435\u0440\u043E\u0432\\helpdesk\\helpdesk\\views\\ticketcreatewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3A29435A-AFBB-A2BD-9BBE-E9AC8FE2D16B}|HelpDesk\\HelpDesk.csproj|solutionrelative:helpdesk\\views\\ticketcreatewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A29435A-AFBB-A2BD-9BBE-E9AC8FE2D16B}|HelpDesk\\HelpDesk.csproj|c:\\users\\\u0435\u043A\u0430\u0442\u0435\u0440\u0438\u043D\u0430\\onedrive\\desktop\\\u0443\u043F \u0430\u0444\u0435\u0440\u043E\u0432\\helpdesk\\helpdesk\\views\\ticketeditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3A29435A-AFBB-A2BD-9BBE-E9AC8FE2D16B}|HelpDesk\\HelpDesk.csproj|solutionrelative:helpdesk\\views\\ticketeditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A29435A-AFBB-A2BD-9BBE-E9AC8FE2D16B}|HelpDesk\\HelpDesk.csproj|c:\\users\\\u0435\u043A\u0430\u0442\u0435\u0440\u0438\u043D\u0430\\onedrive\\desktop\\\u0443\u043F \u0430\u0444\u0435\u0440\u043E\u0432\\helpdesk\\helpdesk\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3A29435A-AFBB-A2BD-9BBE-E9AC8FE2D16B}|HelpDesk\\HelpDesk.csproj|solutionrelative:helpdesk\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A29435A-AFBB-A2BD-9BBE-E9AC8FE2D16B}|HelpDesk\\HelpDesk.csproj|c:\\users\\\u0435\u043A\u0430\u0442\u0435\u0440\u0438\u043D\u0430\\onedrive\\desktop\\\u0443\u043F \u0430\u0444\u0435\u0440\u043E\u0432\\helpdesk\\helpdesk\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A29435A-AFBB-A2BD-9BBE-E9AC8FE2D16B}|HelpDesk\\HelpDesk.csproj|solutionrelative:helpdesk\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A29435A-AFBB-A2BD-9BBE-E9AC8FE2D16B}|HelpDesk\\HelpDesk.csproj|c:\\users\\\u0435\u043A\u0430\u0442\u0435\u0440\u0438\u043D\u0430\\onedrive\\desktop\\\u0443\u043F \u0430\u0444\u0435\u0440\u043E\u0432\\helpdesk\\helpdesk\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A29435A-AFBB-A2BD-9BBE-E9AC8FE2D16B}|HelpDesk\\HelpDesk.csproj|solutionrelative:helpdesk\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A29435A-AFBB-A2BD-9BBE-E9AC8FE2D16B}|HelpDesk\\HelpDesk.csproj|c:\\users\\\u0435\u043A\u0430\u0442\u0435\u0440\u0438\u043D\u0430\\onedrive\\desktop\\\u0443\u043F \u0430\u0444\u0435\u0440\u043E\u0432\\helpdesk\\helpdesk\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3A29435A-AFBB-A2BD-9BBE-E9AC8FE2D16B}|HelpDesk\\HelpDesk.csproj|solutionrelative:helpdesk\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A29435A-AFBB-A2BD-9BBE-E9AC8FE2D16B}|HelpDesk\\HelpDesk.csproj|c:\\users\\\u0435\u043A\u0430\u0442\u0435\u0440\u0438\u043D\u0430\\onedrive\\desktop\\\u0443\u043F \u0430\u0444\u0435\u0440\u043E\u0432\\helpdesk\\helpdesk\\views\\ticketeditwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A29435A-AFBB-A2BD-9BBE-E9AC8FE2D16B}|HelpDesk\\HelpDesk.csproj|solutionrelative:helpdesk\\views\\ticketeditwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A29435A-AFBB-A2BD-9BBE-E9AC8FE2D16B}|HelpDesk\\HelpDesk.csproj|c:\\users\\\u0435\u043A\u0430\u0442\u0435\u0440\u0438\u043D\u0430\\onedrive\\desktop\\\u0443\u043F \u0430\u0444\u0435\u0440\u043E\u0432\\helpdesk\\helpdesk\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A29435A-AFBB-A2BD-9BBE-E9AC8FE2D16B}|HelpDesk\\HelpDesk.csproj|solutionrelative:helpdesk\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A29435A-AFBB-A2BD-9BBE-E9AC8FE2D16B}|HelpDesk\\HelpDesk.csproj|c:\\users\\\u0435\u043A\u0430\u0442\u0435\u0440\u0438\u043D\u0430\\onedrive\\desktop\\\u0443\u043F \u0430\u0444\u0435\u0440\u043E\u0432\\helpdesk\\helpdesk\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3A29435A-AFBB-A2BD-9BBE-E9AC8FE2D16B}|HelpDesk\\HelpDesk.csproj|solutionrelative:helpdesk\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A29435A-AFBB-A2BD-9BBE-E9AC8FE2D16B}|HelpDesk\\HelpDesk.csproj|c:\\users\\\u0435\u043A\u0430\u0442\u0435\u0440\u0438\u043D\u0430\\onedrive\\desktop\\\u0443\u043F \u0430\u0444\u0435\u0440\u043E\u0432\\helpdesk\\helpdesk\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A29435A-AFBB-A2BD-9BBE-E9AC8FE2D16B}|HelpDesk\\HelpDesk.csproj|solutionrelative:helpdesk\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A29435A-AFBB-A2BD-9BBE-E9AC8FE2D16B}|HelpDesk\\HelpDesk.csproj|c:\\users\\\u0435\u043A\u0430\u0442\u0435\u0440\u0438\u043D\u0430\\onedrive\\desktop\\\u0443\u043F \u0430\u0444\u0435\u0440\u043E\u0432\\helpdesk\\helpdesk\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A29435A-AFBB-A2BD-9BBE-E9AC8FE2D16B}|HelpDesk\\HelpDesk.csproj|solutionrelative:helpdesk\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A29435A-AFBB-A2BD-9BBE-E9AC8FE2D16B}|HelpDesk\\HelpDesk.csproj|c:\\users\\\u0435\u043A\u0430\u0442\u0435\u0440\u0438\u043D\u0430\\onedrive\\desktop\\\u0443\u043F \u0430\u0444\u0435\u0440\u043E\u0432\\helpdesk\\helpdesk\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A29435A-AFBB-A2BD-9BBE-E9AC8FE2D16B}|HelpDesk\\HelpDesk.csproj|solutionrelative:helpdesk\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A29435A-AFBB-A2BD-9BBE-E9AC8FE2D16B}|HelpDesk\\HelpDesk.csproj|c:\\users\\\u0435\u043A\u0430\u0442\u0435\u0440\u0438\u043D\u0430\\onedrive\\desktop\\\u0443\u043F \u0430\u0444\u0435\u0440\u043E\u0432\\helpdesk\\helpdesk\\models\\priotity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A29435A-AFBB-A2BD-9BBE-E9AC8FE2D16B}|HelpDesk\\HelpDesk.csproj|solutionrelative:helpdesk\\models\\priotity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A29435A-AFBB-A2BD-9BBE-E9AC8FE2D16B}|HelpDesk\\HelpDesk.csproj|c:\\users\\\u0435\u043A\u0430\u0442\u0435\u0440\u0438\u043D\u0430\\onedrive\\desktop\\\u0443\u043F \u0430\u0444\u0435\u0440\u043E\u0432\\helpdesk\\helpdesk\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A29435A-AFBB-A2BD-9BBE-E9AC8FE2D16B}|HelpDesk\\HelpDesk.csproj|solutionrelative:helpdesk\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A29435A-AFBB-A2BD-9BBE-E9AC8FE2D16B}|HelpDesk\\HelpDesk.csproj|c:\\users\\\u0435\u043A\u0430\u0442\u0435\u0440\u0438\u043D\u0430\\onedrive\\desktop\\\u0443\u043F \u0430\u0444\u0435\u0440\u043E\u0432\\helpdesk\\helpdesk\\data\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A29435A-AFBB-A2BD-9BBE-E9AC8FE2D16B}|HelpDesk\\HelpDesk.csproj|solutionrelative:helpdesk\\data\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A29435A-AFBB-A2BD-9BBE-E9AC8FE2D16B}|HelpDesk\\HelpDesk.csproj|c:\\users\\\u0435\u043A\u0430\u0442\u0435\u0440\u0438\u043D\u0430\\onedrive\\desktop\\\u0443\u043F \u0430\u0444\u0435\u0440\u043E\u0432\\helpdesk\\helpdesk\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A29435A-AFBB-A2BD-9BBE-E9AC8FE2D16B}|HelpDesk\\HelpDesk.csproj|solutionrelative:helpdesk\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TicketCreateWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u043A\u0430\u0442\u0435\u0440\u0438\u043D\u0430\\OneDrive\\Desktop\\\u0423\u041F \u0410\u0444\u0435\u0440\u043E\u0432\\HelpDesk\\HelpDesk\\Views\\TicketCreateWindow.xaml.cs",
+              "RelativeDocumentMoniker": "HelpDesk\\Views\\TicketCreateWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0415\u043A\u0430\u0442\u0435\u0440\u0438\u043D\u0430\\OneDrive\\Desktop\\\u0423\u041F \u0410\u0444\u0435\u0440\u043E\u0432\\HelpDesk\\HelpDesk\\Views\\TicketCreateWindow.xaml.cs",
+              "RelativeToolTip": "HelpDesk\\Views\\TicketCreateWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T15:22:56.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TicketEditWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0415\u043A\u0430\u0442\u0435\u0440\u0438\u043D\u0430\\OneDrive\\Desktop\\\u0423\u041F \u0410\u0444\u0435\u0440\u043E\u0432\\HelpDesk\\HelpDesk\\Views\\TicketEditWindow.xaml",
+              "RelativeDocumentMoniker": "HelpDesk\\Views\\TicketEditWindow.xaml",
+              "ToolTip": "C:\\Users\\\u0415\u043A\u0430\u0442\u0435\u0440\u0438\u043D\u0430\\OneDrive\\Desktop\\\u0423\u041F \u0410\u0444\u0435\u0440\u043E\u0432\\HelpDesk\\HelpDesk\\Views\\TicketEditWindow.xaml",
+              "RelativeToolTip": "HelpDesk\\Views\\TicketEditWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-15T14:49:38.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0415\u043A\u0430\u0442\u0435\u0440\u0438\u043D\u0430\\OneDrive\\Desktop\\\u0423\u041F \u0410\u0444\u0435\u0440\u043E\u0432\\HelpDesk\\HelpDesk\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "HelpDesk\\Views\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\\u0415\u043A\u0430\u0442\u0435\u0440\u0438\u043D\u0430\\OneDrive\\Desktop\\\u0423\u041F \u0410\u0444\u0435\u0440\u043E\u0432\\HelpDesk\\HelpDesk\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "HelpDesk\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-15T14:50:32.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TicketCreateWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0415\u043A\u0430\u0442\u0435\u0440\u0438\u043D\u0430\\OneDrive\\Desktop\\\u0423\u041F \u0410\u0444\u0435\u0440\u043E\u0432\\HelpDesk\\HelpDesk\\Views\\TicketCreateWindow.xaml",
+              "RelativeDocumentMoniker": "HelpDesk\\Views\\TicketCreateWindow.xaml",
+              "ToolTip": "C:\\Users\\\u0415\u043A\u0430\u0442\u0435\u0440\u0438\u043D\u0430\\OneDrive\\Desktop\\\u0423\u041F \u0410\u0444\u0435\u0440\u043E\u0432\\HelpDesk\\HelpDesk\\Views\\TicketCreateWindow.xaml",
+              "RelativeToolTip": "HelpDesk\\Views\\TicketCreateWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-15T14:48:40.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u043A\u0430\u0442\u0435\u0440\u0438\u043D\u0430\\OneDrive\\Desktop\\\u0423\u041F \u0410\u0444\u0435\u0440\u043E\u0432\\HelpDesk\\HelpDesk\\Views\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "HelpDesk\\Views\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0415\u043A\u0430\u0442\u0435\u0440\u0438\u043D\u0430\\OneDrive\\Desktop\\\u0423\u041F \u0410\u0444\u0435\u0440\u043E\u0432\\HelpDesk\\HelpDesk\\Views\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "HelpDesk\\Views\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T15:00:22.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TicketEditWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u043A\u0430\u0442\u0435\u0440\u0438\u043D\u0430\\OneDrive\\Desktop\\\u0423\u041F \u0410\u0444\u0435\u0440\u043E\u0432\\HelpDesk\\HelpDesk\\Views\\TicketEditWindow.xaml.cs",
+              "RelativeDocumentMoniker": "HelpDesk\\Views\\TicketEditWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0415\u043A\u0430\u0442\u0435\u0440\u0438\u043D\u0430\\OneDrive\\Desktop\\\u0423\u041F \u0410\u0444\u0435\u0440\u043E\u0432\\HelpDesk\\HelpDesk\\Views\\TicketEditWindow.xaml.cs",
+              "RelativeToolTip": "HelpDesk\\Views\\TicketEditWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T15:17:12.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u043A\u0430\u0442\u0435\u0440\u0438\u043D\u0430\\OneDrive\\Desktop\\\u0423\u041F \u0410\u0444\u0435\u0440\u043E\u0432\\HelpDesk\\HelpDesk\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "HelpDesk\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\\u0415\u043A\u0430\u0442\u0435\u0440\u0438\u043D\u0430\\OneDrive\\Desktop\\\u0423\u041F \u0410\u0444\u0435\u0440\u043E\u0432\\HelpDesk\\HelpDesk\\AssemblyInfo.cs",
+              "RelativeToolTip": "HelpDesk\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T08:35:54.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u043A\u0430\u0442\u0435\u0440\u0438\u043D\u0430\\OneDrive\\Desktop\\\u0423\u041F \u0410\u0444\u0435\u0440\u043E\u0432\\HelpDesk\\HelpDesk\\App.xaml.cs",
+              "RelativeDocumentMoniker": "HelpDesk\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0415\u043A\u0430\u0442\u0435\u0440\u0438\u043D\u0430\\OneDrive\\Desktop\\\u0423\u041F \u0410\u0444\u0435\u0440\u043E\u0432\\HelpDesk\\HelpDesk\\App.xaml.cs",
+              "RelativeToolTip": "HelpDesk\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T08:35:50.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0415\u043A\u0430\u0442\u0435\u0440\u0438\u043D\u0430\\OneDrive\\Desktop\\\u0423\u041F \u0410\u0444\u0435\u0440\u043E\u0432\\HelpDesk\\HelpDesk\\App.xaml",
+              "RelativeDocumentMoniker": "HelpDesk\\App.xaml",
+              "ToolTip": "C:\\Users\\\u0415\u043A\u0430\u0442\u0435\u0440\u0438\u043D\u0430\\OneDrive\\Desktop\\\u0423\u041F \u0410\u0444\u0435\u0440\u043E\u0432\\HelpDesk\\HelpDesk\\App.xaml",
+              "RelativeToolTip": "HelpDesk\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-15T14:50:48.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u043A\u0430\u0442\u0435\u0440\u0438\u043D\u0430\\OneDrive\\Desktop\\\u0423\u041F \u0410\u0444\u0435\u0440\u043E\u0432\\HelpDesk\\HelpDesk\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "HelpDesk\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0415\u043A\u0430\u0442\u0435\u0440\u0438\u043D\u0430\\OneDrive\\Desktop\\\u0423\u041F \u0410\u0444\u0435\u0440\u043E\u0432\\HelpDesk\\HelpDesk\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "HelpDesk\\Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAwwHoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T15:15:00.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0415\u043A\u0430\u0442\u0435\u0440\u0438\u043D\u0430\\OneDrive\\Desktop\\\u0423\u041F \u0410\u0444\u0435\u0440\u043E\u0432\\HelpDesk\\HelpDesk\\Views\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "HelpDesk\\Views\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\\u0415\u043A\u0430\u0442\u0435\u0440\u0438\u043D\u0430\\OneDrive\\Desktop\\\u0423\u041F \u0410\u0444\u0435\u0440\u043E\u0432\\HelpDesk\\HelpDesk\\Views\\LoginWindow.xaml",
+              "RelativeToolTip": "HelpDesk\\Views\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-15T14:47:53.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u043A\u0430\u0442\u0435\u0440\u0438\u043D\u0430\\OneDrive\\Desktop\\\u0423\u041F \u0410\u0444\u0435\u0440\u043E\u0432\\HelpDesk\\HelpDesk\\Models\\User.cs",
+              "RelativeDocumentMoniker": "HelpDesk\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\\u0415\u043A\u0430\u0442\u0435\u0440\u0438\u043D\u0430\\OneDrive\\Desktop\\\u0423\u041F \u0410\u0444\u0435\u0440\u043E\u0432\\HelpDesk\\HelpDesk\\Models\\User.cs",
+              "RelativeToolTip": "HelpDesk\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T14:55:14.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u043A\u0430\u0442\u0435\u0440\u0438\u043D\u0430\\OneDrive\\Desktop\\\u0423\u041F \u0410\u0444\u0435\u0440\u043E\u0432\\HelpDesk\\HelpDesk\\Models\\Ticket.cs",
+              "RelativeDocumentMoniker": "HelpDesk\\Models\\Ticket.cs",
+              "ToolTip": "C:\\Users\\\u0415\u043A\u0430\u0442\u0435\u0440\u0438\u043D\u0430\\OneDrive\\Desktop\\\u0423\u041F \u0410\u0444\u0435\u0440\u043E\u0432\\HelpDesk\\HelpDesk\\Models\\Ticket.cs",
+              "RelativeToolTip": "HelpDesk\\Models\\Ticket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T14:55:40.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Status.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u043A\u0430\u0442\u0435\u0440\u0438\u043D\u0430\\OneDrive\\Desktop\\\u0423\u041F \u0410\u0444\u0435\u0440\u043E\u0432\\HelpDesk\\HelpDesk\\Models\\Status.cs",
+              "RelativeDocumentMoniker": "HelpDesk\\Models\\Status.cs",
+              "ToolTip": "C:\\Users\\\u0415\u043A\u0430\u0442\u0435\u0440\u0438\u043D\u0430\\OneDrive\\Desktop\\\u0423\u041F \u0410\u0444\u0435\u0440\u043E\u0432\\HelpDesk\\HelpDesk\\Models\\Status.cs",
+              "RelativeToolTip": "HelpDesk\\Models\\Status.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T14:57:28.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Priotity.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u043A\u0430\u0442\u0435\u0440\u0438\u043D\u0430\\OneDrive\\Desktop\\\u0423\u041F \u0410\u0444\u0435\u0440\u043E\u0432\\HelpDesk\\HelpDesk\\Models\\Priotity.cs",
+              "RelativeDocumentMoniker": "HelpDesk\\Models\\Priotity.cs",
+              "ToolTip": "C:\\Users\\\u0415\u043A\u0430\u0442\u0435\u0440\u0438\u043D\u0430\\OneDrive\\Desktop\\\u0423\u041F \u0410\u0444\u0435\u0440\u043E\u0432\\HelpDesk\\HelpDesk\\Models\\Priotity.cs",
+              "RelativeToolTip": "HelpDesk\\Models\\Priotity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T14:58:01.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u043A\u0430\u0442\u0435\u0440\u0438\u043D\u0430\\OneDrive\\Desktop\\\u0423\u041F \u0410\u0444\u0435\u0440\u043E\u0432\\HelpDesk\\HelpDesk\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "HelpDesk\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\\u0415\u043A\u0430\u0442\u0435\u0440\u0438\u043D\u0430\\OneDrive\\Desktop\\\u0423\u041F \u0410\u0444\u0435\u0440\u043E\u0432\\HelpDesk\\HelpDesk\\Models\\Category.cs",
+              "RelativeToolTip": "HelpDesk\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T14:57:07.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u043A\u0430\u0442\u0435\u0440\u0438\u043D\u0430\\OneDrive\\Desktop\\\u0423\u041F \u0410\u0444\u0435\u0440\u043E\u0432\\HelpDesk\\HelpDesk\\Data\\Database.cs",
+              "RelativeDocumentMoniker": "HelpDesk\\Data\\Database.cs",
+              "ToolTip": "C:\\Users\\\u0415\u043A\u0430\u0442\u0435\u0440\u0438\u043D\u0430\\OneDrive\\Desktop\\\u0423\u041F \u0410\u0444\u0435\u0440\u043E\u0432\\HelpDesk\\HelpDesk\\Data\\Database.cs",
+              "RelativeToolTip": "HelpDesk\\Data\\Database.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T14:58:30.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u043A\u0430\u0442\u0435\u0440\u0438\u043D\u0430\\OneDrive\\Desktop\\\u0423\u041F \u0410\u0444\u0435\u0440\u043E\u0432\\HelpDesk\\HelpDesk\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "HelpDesk\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\\u0415\u043A\u0430\u0442\u0435\u0440\u0438\u043D\u0430\\OneDrive\\Desktop\\\u0423\u041F \u0410\u0444\u0435\u0440\u043E\u0432\\HelpDesk\\HelpDesk\\Services\\AuthService.cs",
+              "RelativeToolTip": "HelpDesk\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T14:59:06.349Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

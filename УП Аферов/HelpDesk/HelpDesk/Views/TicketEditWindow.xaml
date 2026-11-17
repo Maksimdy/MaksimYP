@@ -1,0 +1,67 @@
+﻿<Window x:Class="HelpDesk.Views.TicketEditWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="HelpDesk – Редактирование заявки"
+        Height="530"
+        Width="450"
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="NoResize">
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="15"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="15"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="15"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="15"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="15"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="20"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Grid.Row="0" Text="Редактирование заявки" FontSize="22" FontWeight="Bold" HorizontalAlignment="Center"/>
+
+        <TextBlock x:Name="TicketIdTextBlock" Grid.Row="2" Text="Заявка №: 0" FontSize="14" FontWeight="Bold"/>
+
+        <TextBlock Grid.Row="4" Text="Категория" FontSize="14"/>
+        <ComboBox x:Name="CategoryComboBox" Grid.Row="5" Height="32" FontSize="14">
+            <ComboBoxItem Content="Оборудование"/>
+            <ComboBoxItem Content="Программное обеспечение"/>
+            <ComboBoxItem Content="Сеть"/>
+            <ComboBoxItem Content="Учётная запись"/>
+            <ComboBoxItem Content="Периферия"/>
+            <ComboBoxItem Content="Другое"/>
+        </ComboBox>
+
+        <TextBlock Grid.Row="7" Text="Описание" FontSize="14"/>
+        <TextBox x:Name="DescriptionTextBox" Grid.Row="8" Height="70" FontSize="14" AcceptsReturn="True" TextWrapping="Wrap"/>
+
+        <TextBlock Grid.Row="10" Text="Приоритет" FontSize="14"/>
+        <ComboBox x:Name="PriorityComboBox" Grid.Row="11" Height="32" FontSize="14">
+            <ComboBoxItem Content="Низкий"/>
+            <ComboBoxItem Content="Средний"/>
+            <ComboBoxItem Content="Высокий"/>
+        </ComboBox>
+
+        <TextBlock Grid.Row="13" Text="Статус" FontSize="14"/>
+        <ComboBox x:Name="StatusComboBox" Grid.Row="14" Height="32" FontSize="14">
+            <ComboBoxItem Content="Новая"/>
+            <ComboBoxItem Content="В работе"/>
+            <ComboBoxItem Content="Выполнена"/>
+            <ComboBoxItem Content="Отклонена"/>
+        </ComboBox>
+
+        <StackPanel Grid.Row="16" Orientation="Horizontal" HorizontalAlignment="Right">
+            <Button x:Name="SaveButton" Content="Сохранить изменения" Style="{StaticResource PrimaryButtonStyle}" Width="165" Click="SaveButton_Click"/>
+            <Button x:Name="CancelButton" Content="Отмена" Style="{StaticResource PrimaryButtonStyle}" Width="100" Click="CancelButton_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>
